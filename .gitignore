@@ -19,6 +19,9 @@ target/
 *.iml
 *.ipr
 .mvn
+mvnw
+mvnw.cmd
+.gitignore
 pom.xml
 
 target/
